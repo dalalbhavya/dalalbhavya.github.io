@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Tech in Mechanical Engineering, Indian Institute of Technology, 2024 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Project Intern
+  * Mercedes-Benz Research and Development India
+  * Major Work Area: 3D camera-only perception for automated driving.
+  * Supervisor: Mr. Jayanth Ramesh, Mr. Bodhisattwa Chakraborty, Dr. Devendra L. Deshmukh
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Robotics Software Intern
+  * Mowito Automation
+  * Duties included: Robotic arm trajectory planning and improving depth perception.
+  * Supervisors: Safar V., Kewal Bajaj, Puru Rastogi
   
 Skills
 ======
