@@ -35,7 +35,7 @@ Skills
   * PyTorch (2)
   * MMDetection(3D)
   * ROS 1 & 2
-* Design and Simulations
+* Design and Simulation
   * SOLIDWORKS
   * Simulink
 
