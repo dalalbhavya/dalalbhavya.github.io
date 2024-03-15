@@ -1,9 +1,9 @@
 ---
 title: "Understanding the Heat Transfer Characteristics and Axis Switching Phenomenon in High Aspect Ratio Elliptical Orifice Impinging Synthetic Jets"
 collection: publications
-permalink: /publication/2014-12-14-synthetic-jets
+permalink: /publication/2022-12-14-synthetic-jets
 excerpt: 'This paper tries to understand the heat transfer characteristics of synthetic jets.'
-date: 2014-12-04
+date: 2022-12-04
 venue: 'Conference on Fluid Mechanics and Fluid Power'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r83Hl-IAAAAJ&authuser=1&citation_for_view=r83Hl-IAAAAJ:u5HHmVD_uO8C'
 citation: 'Pawan Sharma, Prakhar Bharadwaj, Kshitij Bhat, KA Vyvaswath, Bhavya Dalal, Pradeep K Singh, Santosh K Sahu, Harekrishna Yadav (2022). &quot;Understanding the Heat Transfer Characteristics and Axis Switching Phenomenon in High Aspect Ratio Elliptical Orifice Impinging Synthetic Jets.&quot; <i>Conference on Fluid Mechanics and Fluid Power</i>. 1(1).'
