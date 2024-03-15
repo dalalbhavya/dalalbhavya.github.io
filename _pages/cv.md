@@ -18,7 +18,7 @@ Work experience
 * Summer 2023: Project Intern
   * Mercedes-Benz Research and Development India
   * Major Work Area: 3D camera-only perception for automated driving.
-  * Supervisor: Mr. Jayanth Ramesh, Mr. Bodhisattwa Chakraborty, Dr. Devendra L. Deshmukh
+  * Supervisors: Mr. Jayanth Ramesh, Mr. Bodhisattwa Chakraborty, Dr. Devendra L. Deshmukh
 
 * Summer 2022: Robotics Software Intern
   * Mowito Automation
@@ -40,18 +40,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, IVDC Club, IIT Indore
