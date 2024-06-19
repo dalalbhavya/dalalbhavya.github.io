@@ -1,5 +1,7 @@
 
-# Personal Webpage
+<img src="images/bd_icon_circle_light.png"  width="150" height="150">
+
+# Personal Webpage - Bhavya Dalal
 [dalalbhavya.github.io](https://dalalbhavya.github.io/)
 
 ## Running Locally
