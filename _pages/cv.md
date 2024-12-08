@@ -11,20 +11,13 @@ redirect_from:
 
 ## Education
 
-* B.Tech in Mechanical Engineering, Indian Institute of Technology - (2020 - 2024)
+  | **B.Tech - Mechanical Engineering** *(2020 - 2024)* <br> Grade - 8.99/10.0 <br><br> Indian Institute of Technology (IIT) Indore| **AA404** - Spacecraft Attitude, Dynamics and Control <br> **AA476** - Satellite based Navigation Systems <br> **ME453** - Computer Aided Manufacturing (CAM) <br> **ME434** - Principles of Product Design ||
 
 ## Work experience
 
-* **Graduate Mechatronics Engineer Trainee (GMET)** @ Jaguar Land Rover TBSI | July 2024 - Present
-  * Work Area: Suspension control system design
-
-* **Intern** @ Mercedes-Benz Research and Development India | Summer 2023
-  * Work Area: 3D camera-only perception for automated driving.
-  * Supervisors: Mr. Jayanth Ramesh, Mr. Bodhisattwa Chakraborty, Dr. Devendra L. Deshmukh
-
-* **Intern** @ Mowito Automation | Summer 2022
-  * Work Area: Trajectory planning and depth perception for a 6DoF Manipulator Arm.
-  * Supervisors: Safar V., Kewal Bajaj, Puru Rastogi
+  | **Graduate Mechatronics Engineer Trainee (GMET)** <br> *Jaguar Land Rover India* <br> <br> *Bengaluru, Karnataka, India* |Working on developing suspension control system.| July 2024 - Present |
+| **Intern** <br> *Mercedes-Benz Research and Development India* <br> <br> *Bengaluru, Karnataka, India* | Worked on developing and improving deep learning based Bird's Eye View (BEV) 3D object detection with a surround multi-camera setup. <br> <br> *Supervisors: Mr. Jayanth Ramesh, Mr. Bodhisattwa Chakraborty, Dr. Devendra L. Deshmukh*| Summer 2023 |
+| **Intern** <br> *Mowito Automation* <br> <br> *Bengaluru, Karnataka, India*| Worked on trajectory planning and depth perception for a UR5 robot. <br> <br> *Supervisors: Safar V., Kewal Bajaj, Puru Rastogi*| Summer 2022 |
   
 ## Skills
 
@@ -41,3 +34,4 @@ redirect_from:
 
 * **President**, Intelligent Vehicles Design and Control Club, IIT Indore
 * **Placement Manager**, Training and Placement Cell, IIT Indore
+* **Deputy Contingent Leader**, InterIIT Tech Meet 11.0
